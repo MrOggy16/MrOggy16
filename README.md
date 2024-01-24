@@ -9,5 +9,5 @@
 <h3 align="centre">A passionate gamer from India</h3>
 
 
-<img align="centre" alt="coding" width="400" src="https://github.com/MrOggy16/MrOggy16/assets/113778008/bd00a3ba-6d02-4116-8b32-dad253c087ed">
+<img align="centre" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
